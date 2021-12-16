@@ -34,3 +34,5 @@ recently released a dataset containing images of unique plants belonging to 12 s
 * Evaluate the Model.
 * The motive of the project is to make the learners capable to handle images/image classification problems, during this
 process you should also be capable to handle real image files, not just limited to a numpy array of image pixels.
+
+*Note: Due to the large volume of data, the images were not uploaded to this repoository. The original data files are from Kaggle and can be found here: https://www.kaggle.com/c/plant-seedlings-classification/data?select=train*
